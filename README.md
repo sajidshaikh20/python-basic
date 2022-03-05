@@ -1,2 +1,2 @@
 # python-basic
-practise of code with python
+practice of  basic code with python
