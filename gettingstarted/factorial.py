@@ -7,8 +7,6 @@ def primeFac(n):
             print(div,end=" ")
         if n%div!=0:
             div+=1
-         
-
 def main():
     n = int(input())
     primeFac(n)
