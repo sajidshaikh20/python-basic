@@ -6,7 +6,7 @@ def rotate(n,k):
         temp=temp//10
         digit+=1
     num=10**(digit)
-    # print(num*4)
+    print(num*4)
     k=k%num
     while k!=0:
         rem=n%10
