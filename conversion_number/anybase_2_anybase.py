@@ -17,5 +17,5 @@ while base6!=0:
     rem=base6%6
     base3=base3+rem*3**pow
     pow+=1
-    base6//=10
+    base6//=base6
 print(base3)
